@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage":"https://ucheson235.github.io/AI-Powered-Text-Processor/",
+    "homepage": "https://ucheson235.github.io/AI-Powered-Text-Processor/",
 
    "dev": "vite",
    "build": "vite build",
