@@ -1,6 +1,3 @@
-
-
-
 import InputField from "./components/InputField";
 import Button from "./components/Button";
 import { FaPaperPlane } from "react-icons/fa";
@@ -137,9 +134,9 @@ function App() {
   };
 
   return (
-    <div className="fixed -z-10 min-h-screen w-full bg-[radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
-      <div className="min-h-screen p-4 mt-20">
-        <div className="max-w-2xl mx-auto bg-transparent  p-6 rounded-lg shadow-md text-white border-2 border-gray-600">
+    <div className="min-h-screen w-full bg-[radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
+      <div className="p-4">
+        <div className="max-w-2xl mx-auto bg-transparent p-6 rounded-lg shadow-md text-white border-2 border-gray-600">
           <h1 className="text-2xl font-bold text-center mb-6">
             AI-Powered Text Processor
           </h1>
